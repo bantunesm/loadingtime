@@ -14,7 +14,7 @@
 
 
 
-// DONT TOUCH THIS OR I WILL SEND YOU TO OA :)
+// SCRIPT
 function timediff()
 {
         fin = (new Date()).getTime();
